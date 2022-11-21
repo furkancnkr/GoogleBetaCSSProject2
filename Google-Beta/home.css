@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  header{
+      margin-top: 8px;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+  }
+  
+   table{
+      border-top-width: 0px;
+      border-right-width: 0px;
+      border-bottom-width: 0px;
+      border-left-width: 0px;
+      width: 90%;
+       align-items: center;
+       justify-content: center;
+       margin: auto;
+  
+  }
+  
+   table ul{
+       list-style: none;
+       justify-content: center;
+       text-align: center;
+   }
+  
+  
+   .first-td{
+       width: 100%;
+       background-color: rgb(238,238,238);
+   }
+  
+   .second-td{
+      background-color: rgb(126,229,218);
+   }
+  
+   .third-td{
+      background-color: rgb(112,204,194);
+   }
+  
+   .fourth-td{
+      background-color: rgb(98,179,170);
+   }
+  .tr3{
+      text-align: center;
+  }
+  
+  .google-search{
+      width: 20%;
+      height: 5%;
+  }
