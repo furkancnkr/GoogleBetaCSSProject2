@@ -3,6 +3,6 @@ In 1998, Google was able to recover an actual Google homepage on December 2, 199
 <a href="https://www.patika.dev/tr>">Patika</a>'s Css lesson project-2.
 
 <br>
-<img src="img/Google Beta_project2.jpg" />
+<img src="https://github.com/furkancnkr/Google_Beta-CSS_Project2/blob/main/Google-Beta/img/Google%20Beta_proje2.png?raw=true" />
 <br>
 
